@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dixitakikani
 - 👀 I’m interested in webdevlopment
-- 🌱 I’m currently learning django and rest in spring boot.
-- 💞️ I’m looking to collaborate on internship
+- 🌱 I’m currently learning django and react js using spring boot.
+- 💞️ I’m looking to collaborate on company
 - 📫 How to reach me direct conatact
 
 <!---
